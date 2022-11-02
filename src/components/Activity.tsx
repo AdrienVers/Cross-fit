@@ -3,7 +3,11 @@ import { useDispatch } from "react-redux";
 import styled from "styled-components";
 import { deleteActivity, finishActivity } from "../redux";
 
-function Activity({ activity }) {
+interface ActivityProps {
+  activity: any;
+}
+
+function Activity({ activity }: ActivityProps) {
   const dispatch = useDispatch();
 
   return (

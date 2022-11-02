@@ -5,7 +5,7 @@ import Crunch from "./assets/Crunch.png";
 import Chaise from "./assets/Chaise.png";
 import DefaultImg from "./assets/DefaultImg.png";
 
-type NewActivityProps = {
+export type NewActivityProps = {
   id: number;
   title: string;
   img: any;
