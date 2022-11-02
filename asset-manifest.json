@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Cross-fit/static/css/main.e6c13ad2.css",
+    "main.js": "/Cross-fit/static/js/main.3c4ac680.js",
+    "static/media/Chaise.png": "/Cross-fit/static/media/Chaise.7ddfaacd83ef75900c4e.png",
+    "static/media/Triangles.png": "/Cross-fit/static/media/Triangles.e387fc1ce2610343a58d.png",
+    "static/media/PriseLarge.png": "/Cross-fit/static/media/PriseLarge.e33ecd33999ff56e22e3.png",
+    "static/media/Crunch.png": "/Cross-fit/static/media/Crunch.c547c36a04bdbb424330.png",
+    "static/media/DefaultImg.png": "/Cross-fit/static/media/DefaultImg.8a4272b161df1adae865.png",
+    "index.html": "/Cross-fit/index.html",
+    "main.e6c13ad2.css.map": "/Cross-fit/static/css/main.e6c13ad2.css.map",
+    "main.3c4ac680.js.map": "/Cross-fit/static/js/main.3c4ac680.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3c4ac680.js"
+  ]
+}
